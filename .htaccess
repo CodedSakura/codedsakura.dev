@@ -1,0 +1,23 @@
+<Files .htaccess>
+  Order allow,deny
+  Deny from all
+</Files>
+
+<Files .gitignore>
+  Order allow,deny
+  Deny from all
+</Files>
+
+<Files .editorconfig>
+  Order allow,deny
+  Deny from all
+</Files>
+
+<Directory .git>
+  Order allow,deny
+  Deny from all
+</Directory>
+
+<Directory tmp>
+  Options -Indexes
+</Directory>
