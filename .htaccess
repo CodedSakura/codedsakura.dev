@@ -12,12 +12,3 @@
   Order allow,deny
   Deny from all
 </Files>
-
-<Directory .git>
-  Order allow,deny
-  Deny from all
-</Directory>
-
-<Directory tmp>
-  Options -Indexes
-</Directory>
