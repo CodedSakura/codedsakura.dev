@@ -25,7 +25,7 @@ h1 > .header-link, h2 > .header-link, h3 > .header-link {
     background: center center no-repeat;
     background-size: .75em;
 }
-h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link {
+h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link, .header-link:focus {
     background-image: url("assets/link_light_24dp.svg");
 }
 
@@ -46,7 +46,7 @@ nav.horizontal {
         background-color: #000;
         color: #fff;
     }
-    h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link {
+    h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link, .header-link:focus {
         background-image: url("assets/link_white_24dp.svg");
     }
     a { color: #0ff; }
@@ -57,7 +57,7 @@ nav.horizontal {
         background-color: #eee;
         color: #222;
     }
-    h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link {
+    h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link, .header-link:focus {
         background-image: url("assets/link_dark_24dp.svg");
     }
     a { color: #808; }
@@ -67,7 +67,7 @@ nav.horizontal {
             background-color: #fff;
             color: #000;
         }
-        h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link {
+        h1:hover > .header-link, h2:hover > .header-link, h3:hover > .header-link, .header-link:focus {
             background-image: url("assets/link_black_24dp.svg");
         }
         a { color: #00f; }
