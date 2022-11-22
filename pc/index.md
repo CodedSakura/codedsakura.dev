@@ -140,7 +140,7 @@ cable management solutions.
 
 ### Cooling
 CPU cooler: some off-brand cheapo tower cooler (don't have the box accessible)  
-Fans: 3 * \[forgor name\]  
+Fans: 3 * Xilence  
 Airflow direction: Front to back  
 Airflow pressure: Positive pressure: 2 in, 1 out
 
