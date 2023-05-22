@@ -1,5 +1,7 @@
 # CodedSakura's PC
 
+_Last updated: 2023-05-22_
+
 So you want to know about what sits in my personal computer?  
 You've come to the right place!
 
@@ -11,11 +13,12 @@ You've come to the right place!
 - GPU: GeForce RTX 3070
 - RAM: 32 GB DDR4 @ 2666 MHz
 - PSU: NZXT E650
-- KB1: Corsair K70 MK2
-- KB2: Keychron K3
+- KB1: Keychron K3
+- KB2: Corsair K70 MK2
 - Storage1: 1TB NVMe SSD
 - Storage2: 4TB HDD
-- Mouse: Corsair Harpoon Wireless RGB
+- Mouse1: Corsair Harpoon Wireless RGB
+- Mouse2: Corsair Harpoon Wireless RGB
 - Monitor 1: Samsung 32" 4K 60 Hz
 - Monitor A: GIGABYTE 27" '2K' 240 Hz
 
@@ -35,35 +38,37 @@ The CPU I've chosen is an [Intel Core i5-9600KF](https://www.intel.com/content/w
 * L1d & L1i cache: 192 KiB, L2: 1.5 MiB, L3: 9 MiB
 * No integrated GPU
 
-**Q&A:**
+#### Q&A:
 - Why Intel?
   - At the time when I was building my PC, Intel CPUs were more expensive than AMD CPUs, but the motherboards where the
     other way around. Resulting in a very similar price for either one. I had always used Intel-based builds up to then,
     so I was slightly biased for it already. Combined with a poor experience with an AMD-based HP laptop I decided to go
     with Intel.
 - Why specifically i5-9600KF?
-  - The i5-9600 is still one of the best price-to-performance 9th gen Intel CPUs, and might still be a very good 
-    candidate for the LGA1151 socket. F (required discrete graphics) - due to cost reduction and already having a
-    dedicated GPU at the time (GTX 1050ti), K (unlocked) - because that's what was available.
+    - The i5-9600 is still one of the best price-to-performance 9th gen Intel CPUs, and might still be a very good
+      candidate for the LGA1151 socket. F (required discrete graphics) - due to cost reduction and already having a
+      dedicated GPU at the time (GTX 1050ti), K (unlocked) - because that's what was available.
 - Do I plan to switch to AMD?
-  - I definitely do consider it, but currently have no real preference for either (2022-08-22).
+    - I definitely do consider it, but currently have no real preference for either (2022-08-22).
+    - I'm pretty sure whenever DDR5 RAM is mainstream and worth upgrading to, I'll be choosing to switch to AMD (2023-05-22).
 
 ### GPU
 
 The GPU I currently have is a GIGABYTE branded GeForce RTX 3070.
 Specifically [GeForce RTX 3070 GAMING OC 8G (rev 2.0)](https://www.gigabyte.com/Graphics-Card/GV-N3070GAMING-OC-8GD-rev-20)
 
-**Q&A**
+### Q&A
+
 - Why GeForce?
-  - Not much to say here, in my opinion AMD GPUs are nowhere near as good (or maybe popular) as GeForce ones.
+    - Not much to say here, in my opinion AMD GPUs are nowhere near as good (or maybe popular) as GeForce ones.
 - Why the RTX 3070?
-  - It was a price and performance balance in my case: while I don't need much rendering power on a daily basis, I do
-    have two large monitors and I tend to game at 1440p. From my research the 3060 would have entirely satisfied me if
-    I didn't want to run the two monitors in conjunction with my VR headset... The 3070 felt like a nice balance with
-    not costing too much and delivering enough graphical power for all my needs.
+    - It was a price and performance balance in my case: while I don't need much rendering power on a daily basis, I do
+      have two large monitors and I tend to game at 1440p. From my research the 3060 would have entirely satisfied me if
+      I didn't want to run the two monitors in conjunction with my VR headset... The 3070 felt like a nice balance with
+      not costing too much and delivering enough graphical power for all my needs. And anything above seemed like overkill.
 - Why GIGABYTE?
-  - I really like the GPUs backplate design, and also that's what you see the most (if the card is horizontally 
-    installed).
+    - I really like the GPUs backplate design, and also that's what you see the most (if the card is horizontally
+      installed).
 - What before?
   - As stated on the top, I built my PC at 2020Q1, before the RTX 30-series were even announced. At the time of building
     I had a GTX 1050 ti (also GIGABYTE branded), but that now lives in my bother's PC, as it's a low profile card and my
@@ -76,7 +81,7 @@ I have 32 GB total ram, on 2 identical sticks of 16 GB. They're HyperX Predator,
 rebranded them to be called [Kingston FURY Renegade](https://www.kingston.com/unitedkingdom/en/memory/gaming/kingston-fury-renegade-ddr4-memory).
 Specifically I chose 16GB DDR4-2666 CL13. And yes, they're installed in parallel to allow dual-channel.
 
-**Q&A**
+#### Q&A
 - Why 2 * 16GB?
   - I started out with just a single 16 GB stick, but as time went on I started to realize that I'd benefit from an 
     extra 16 GB.
@@ -104,7 +109,7 @@ It's a [GIGABYTE Z390](https://www.gigabyte.com/us/Motherboard/Z390-M-rev-10) wh
 * extensive BIOS with fan control options
 * M.2 socket for an Intel CNVi wireless module (which I've been planning on installing for about 1.5 years now)
 
-**Q&A**
+#### Q&A
 - Do I like it?
   - I don't hate it.
 
@@ -113,7 +118,7 @@ I went all out on the PSU and ended up with a [NZXT E650](https://web.archive.or
 which seems to have been rebranded to the [NZXT C650](https://nzxt.com/product/c650). It's a modular, 80+ gold rated PSU.
 Weirdly enough, I'm pretty sure it's the loudest component in my PC case...
 
-**Q&A**
+#### Q&A
 - Why 650 W?
   - When doing calculations about potential power usage, the number I came up with was around 600.
 - Why modular?
@@ -134,24 +139,28 @@ solution to this problem. I have a [Seagate BarraCuda 4TB](https://www.seagate.c
 5400 rpm. It's quiet, it's cheap ~~and I need to pray to it every night, so it doesn't spontaneously die.~~
 
 ### Case
-For my fancy new computer parts I decided that I want a fancy new computer case. Of the multitude of options I most 
+
+For my fancy new computer parts I decided that I want a fancy new computer case. Of the multitude of options I most
 liked the [LIAN LI Lancool-II](https://lian-li.com/product/lancool-ii/) for it's very pretty design and zero effort
 cable management solutions.
 
 ### Cooling
-CPU cooler: some off-brand cheapo tower cooler (don't have the box accessible)  
+
+CPU cooler: some off-brand cheapo tower cooler (don't have the box anymore)  
 Fans: 3 * Xilence  
 Airflow direction: Front to back  
 Airflow pressure: Positive pressure: 2 in, 1 out
 
 ### Peripherals
 
-Main keyboard: [Corsair K70 RGB MK.2](https://www.corsair.com/us/en/k70-rgb-gaming-keyboard)
-
-Secondary / take-anywhere keyboard: [Keychron K3](https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard)
+Main / take-anywhere keyboard: [Keychron K3](https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard)
 (75%) with Low Profile Optical switches, mix of brown and black.
 
-Mouse: [Corsair Harpoon RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/HARPOON-RGB-WIRELESS-Gaming-Mouse/p/CH-9311011-NA)
+Backup keyboard: [Corsair K70 RGB MK.2](https://www.corsair.com/us/en/k70-rgb-gaming-keyboard)
+
+Mouse1: [Corsair Harpoon RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/HARPOON-RGB-WIRELESS-Gaming-Mouse/p/CH-9311011-NA)
+
+Mouse2 (for my laptop): [Logitech MX Anywhere 3](https://www.logitech.com/en-us/products/mice/mx-anywhere-3.910-005833.html)
 
 Headphones: [Sony WH-1000XMK3](https://www.sony.com/ug/electronics/headband-headphones/wh-1000xm3)
 
