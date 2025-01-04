@@ -1,6 +1,6 @@
 # CodedSakura's PC
 
-_Last updated: 2023-05-22_
+_Last updated: 2025-01-03_
 
 So you want to know about what sits in my personal computer?  
 You've come to the right place!
@@ -13,12 +13,11 @@ You've come to the right place!
 - GPU: GeForce RTX 3070
 - RAM: 32 GB DDR4 @ 2666 MHz
 - PSU: NZXT E650
-- KB1: Keychron K3
-- KB2: Corsair K70 MK2
+- KB: Corsair K70 MK2
 - Storage1: 1TB NVMe SSD
 - Storage2: 4TB HDD
 - Mouse1: Corsair Harpoon Wireless RGB
-- Mouse2: Corsair Harpoon Wireless RGB
+- Mouse2: Logi MX Anywhere 3
 - Monitor 1: Samsung 32" 4K 60 Hz
 - Monitor A: GIGABYTE 27" '2K' 240 Hz
 
@@ -153,10 +152,7 @@ Airflow pressure: Positive pressure: 2 in, 1 out
 
 ### Peripherals
 
-Main / take-anywhere keyboard: [Keychron K3](https://www.keychron.com/pages/keychron-k3-wireless-mechanical-keyboard)
-(75%) with Low Profile Optical switches, mix of brown and black.
-
-Backup keyboard: [Corsair K70 RGB MK.2](https://www.corsair.com/us/en/k70-rgb-gaming-keyboard)
+Main keyboard: [Corsair K70 RGB MK.2](https://www.corsair.com/us/en/k70-rgb-gaming-keyboard)
 
 Mouse1: [Corsair Harpoon RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/HARPOON-RGB-WIRELESS-Gaming-Mouse/p/CH-9311011-NA)
 
@@ -178,4 +174,4 @@ Speakers: [VIGOOLE C2018](https://naobzorah.ru/pcacoustic/vigoole_c2018), 'inher
 Gaming controller: [Sony PlayStation DualSense (5)](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/), 
 white
 
-VR headset: [Valve Index](https://www.valvesoftware.com/en/index)
+VR headset: [Valve Index](https://www.valvesoftware.com/en/index), likely broken left eye display.

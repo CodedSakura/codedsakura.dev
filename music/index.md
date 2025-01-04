@@ -1,6 +1,6 @@
 # CodedSakura's music tastes
 
-_Last updated: 2023-05-22_
+_Last updated: 2025-01-03_
 
 I listen mostly to electronic music and here are described the tastes I have developed over 10 years of listening to it.
 
@@ -13,7 +13,7 @@ I listen mostly to electronic music and here are described the tastes I have dev
 
 ## Artists
 
-These artists are in no particular order.
+These artists are in no particular order. And, I've probably missed a bunch...
 
 Top 10:
 
@@ -64,6 +64,8 @@ Rest of favourites:
 - updog
 - KOAN Sound
 - Chipzel
+- 7 Minutes Dead
+- Fractal
 
 Other artists I've listened to a lot:
 
